@@ -4,7 +4,6 @@ h1 {
     font-family: 'Eater', cursive;
 }
 table, tr, td {
-    border: 1px solid #161616;
     border-collapse: collapse;
 }
 .virs_raides {
